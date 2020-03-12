@@ -1,0 +1,5 @@
+kotlinc HelloWorld.kt -include-runtime -d HelloWorld.jar
+java -jar HelloWorld.jar
+
+
+wget https://github.com/JodaOrg/joda-time/releases/download/v2.9.4/joda-time-2.9.4-dist.tar.gz
